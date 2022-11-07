@@ -22,7 +22,6 @@ def twosums(array:list[int],target:int)-> list[int]: #定义函数的输入和�
 if __name__ == '__main__':
     array = [0,3,6,9,6,6]
     target = 1
-
     print(twosums(array,target))
 
 
