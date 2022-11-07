@@ -25,6 +25,7 @@ if __name__ == '__main__':
     print(twosums(array,target))
 
 
+
 # #def twoSum(nums: List[int], target: int) -> List[int]:
 #     n = len(nums)
 #     for i in range(n):
